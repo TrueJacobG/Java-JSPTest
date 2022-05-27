@@ -2,12 +2,18 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>JSP - Hello World</title>
+    <title>Test Shop</title>
 </head>
 <body>
-    <h1><%= "Better One" %>
+    <h1>
+        Hello and Welcome on out shop site!
     </h1>
-    <br/>
-    <a href="hello-servlet">Hello Servlet</a>
+
+    <tr>
+        <td>
+            <a href="t-shirts">T shirts</a>
+        </td>
+    </tr>
+
 </body>
 </html>
